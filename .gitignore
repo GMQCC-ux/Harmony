@@ -1,0 +1,9 @@
+.idea/
+*.iml
+Thumbs.db
+Desktop.ini
+.preview/
+build/
+.hvigor/
+node_modules/
+oh_modules/

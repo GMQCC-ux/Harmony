@@ -1,0 +1,8 @@
+﻿/node_modules
+/.hvigor
+/.idea
+/.preview
+/build
+/.cxx
+*.tar.gz
+*.tar

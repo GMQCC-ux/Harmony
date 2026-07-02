@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.1.0",
+  "name": "deepnote",
+  "version": "1.0.0",
+  "description": "DeepNote - 基于DeepSeek的智能笔记与对话应用",
+  "main": "",
+  "author": "密启正 袁腾 杨明凡",
+  "license": "ISC",
+  "dependencies": {}
+}
